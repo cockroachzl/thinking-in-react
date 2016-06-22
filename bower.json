@@ -1,0 +1,21 @@
+{
+  "name": "thinking-in-react",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Zhang <liazhang@amazon.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cockroachzl/thinking-in-react",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}
